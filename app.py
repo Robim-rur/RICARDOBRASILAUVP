@@ -21,34 +21,26 @@ st.caption("Retorno à média | Gain fixo em 4% | Mean Reversion")
 # =========================================================
 
 AUVP11_HOLDINGS = [
-    "ITUB4.SA",
-    "SBSP3.SA",
-    "BBDC4.SA",
-    "B3SA3.SA",
-    "ITSA4.SA",
-    "WEGE3.SA",
-    "BPAC11.SA",
-    "ABEV3.SA",
-    "BBAS3.SA",
-    "PRIO3.SA",
-    "PETR4.SA",
-    "PETR3.SA",
-    "EGIE3.SA",
-    "ELET3.SA",
-    "ELET6.SA",
-    "VALE3.SA",
-    "CCRO3.SA",
-    "CMIG4.SA",
-    "CPLE6.SA",
-    "CSAN3.SA",
-    "EQTL3.SA",
-    "LREN3.SA",
-    "NTCO3.SA",
-    "RADL3.SA",
-    "RAIL3.SA",
-    "TAEE11.SA",
-    "TRPL4.SA",
-    "VBBR3.SA"
+# Bancos / Financeiro
+    "ITUB4.SA","BBDC4.SA","BBAS3.SA","BPAC11.SA","ITSA4.SA","B3SA3.SA",
+
+    # Energia / Utilities
+    "EGIE3.SA","CPLE6.SA","CPFE3.SA","TAEE11.SA","TRPL4.SA","CMIG4.SA","SAPR11.SA","SAPR4.SA",
+
+    # Telecom
+    "VIVT3.SA","TIMS3.SA",
+
+    # Consumo / Serviços
+    "ABEV3.SA","PSSA3.SA","MULT3.SA","ALOS3.SA","ODPV3.SA",
+
+    # Construção / Industrial
+    "CYRE3.SA","KEPL3.SA","POMO4.SA","TOTS3.SA",
+
+    # Commodities / Outros
+    "PETR4.SA","PRIO3.SA","VALE3.SA",
+
+    # Crescimento
+    "WEGE3.SA","RDOR3.SA","SBSP3.SA","BBSE3.SA"
 ]
 
 # =========================================================
